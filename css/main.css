@@ -8597,3 +8597,11 @@ img{
 	top:38px;
 	cursor:pointer;
 }
+.typeeffect{
+	display: block;
+}
+.typed-cursor{
+	font-size: 70px;
+    color: #fff;
+    font-weight: 700;
+}
