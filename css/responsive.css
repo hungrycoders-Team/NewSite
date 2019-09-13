@@ -1030,6 +1030,9 @@
 	h1{
 		font-size:40px;
 	}
+	.typed-cursor{
+		font-size: 40px;
+	}
 	
 	.sec-title .big-title,
 	.services-carousel-section .big-title{
