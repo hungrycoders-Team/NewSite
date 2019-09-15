@@ -8605,3 +8605,28 @@ img{
     color: #fff;
     font-weight: 700;
 }
+
+.mobile{
+	position: relative;
+	  
+	    padding-bottom: 181px;
+    padding-left: 67px;
+    padding-top: 27px;
+
+}
+.screen{
+	background: url(../images/resource/mobile.png);
+	position: absolute;
+	position: absolute;
+    top: 0px;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    background-repeat: no-repeat;
+     z-index: 3;
+     background-size: 87%;
+     margin-left: 62px;
+}
+.custom-owl .owl-nav{
+	display: none;
+}
