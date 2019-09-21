@@ -8629,3 +8629,7 @@ img{
 .custom-owl .owl-nav{
 	display: none;
 }
+.portfolio-bg{
+	background: url(../images/resource/678.jpg);    
+    background-size: cover;
+}
